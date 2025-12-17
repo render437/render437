@@ -24,7 +24,6 @@ High school student with a bit of coding experience.
 
 <!-- About Me -->
 ### About Me:
-<a href="#"><img align="right" height=290 src="assets/tux.svg"></a>
 
 - High School **Student** 📚
 - From **America** 🇺🇲 
