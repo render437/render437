@@ -100,5 +100,6 @@ class Languages:
 
 ---
 
-### 📈 General Stats
-![General Stats](https://gist.githubusercontent.com/render437/85d5e70c0b12cc7f904df11fd3880f55/raw/general.svg)
+<p align="left">
+  <img src="https://gist.githubusercontent.com/render437/85d5e70c0b12cc7f904df11fd3880f55/raw/general.svg" width="600">
+</p>
