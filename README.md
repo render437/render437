@@ -1,29 +1,28 @@
 High school student with a bit of coding experience.
 
-<!-- Badges -->
-<p>
-    <a href="#"><img src="https://img.shields.io/github/followers/render437?style=social&label=follow"></a>
-    <a href="#"><img src="https://img.shields.io/github/stars/render437?style=social"></a>
-    <a href="#"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frender437&title=Visitors&count_bg=%230073EB"></a>
-</p>
-
-
 <!-- Social Badges -->
 <hr />
-<p align=center>
+<p align="center">
     <a href="https://t.me/render437" target="_blank"><img
             src="https://img.shields.io/badge/Telegram-%232CA5E0?style=for-the-badge&logoColor=white&logo=telegram"
             alt="Telegram"></a>
     <a href="https://www.linkedin.com/in/render437" target="_blank"><img
             src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+    <a href="https://beacons.ai/render437" target="_blank"><img
+            src="https://img.shields.io/badge/Beacons-%23FF5C5C?style=for-the-badge&logo=beacons" 
+            alt="Beacons"></a>
     <a href="https://wa.me/qr/I7UJUWG7EWGPG1" target="_blank"><img
             src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logoColor=white&logo=instagram"
             alt="WhatsApp"></a>
+    <a href="https://tiktok.com/@render437" target="_blank"><img
+            src="https://img.shields.io/badge/Tiktok-black?style=for-the-badge&logoColor=white&logo=tiktok"
+            alt="TikTok"></a>
     <a href="https://github.com/render437.gpg" target="_blank"><img
             src="https://img.shields.io/badge/GPG%20Key-%233f4145?style=for-the-badge&logo=gnu-privacy-guard"
             alt="GPG Key"></a>
 </p>
 <hr />
+
 
 <!-- About Me -->
 ### About Me:
