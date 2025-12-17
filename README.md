@@ -6,16 +6,14 @@ High school student with a bit of coding experience.
     <a href="https://t.me/render437" target="_blank"><img
             src="https://img.shields.io/badge/Telegram-%232CA5E0?style=for-the-badge&logoColor=white&logo=telegram"
             alt="Telegram"></a>
-    <a href="https://www.linkedin.com/in/render437" target="_blank"><img
-            src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
     <a href="https://beacons.ai/render437" target="_blank"><img
-            src="https://img.shields.io/badge/Beacons-%23FF5C5C?style=for-the-badge&logo=beacons" 
+            src="https://img.shields.io/badge/Beacons.ai-%23505050?style=for-the-badge&logoColor=white&logo=github" 
             alt="Beacons"></a>
     <a href="https://wa.me/qr/I7UJUWG7EWGPG1" target="_blank"><img
-            src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logoColor=white&logo=instagram"
+            src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=for-the-badge"
             alt="WhatsApp"></a>
     <a href="https://tiktok.com/@render437" target="_blank"><img
-            src="https://img.shields.io/badge/Tiktok-black?style=for-the-badge&logoColor=white&logo=tiktok"
+            src="https://img.shields.io/badge/Tiktok-%235a0075?style=for-the-badge&logoColor=white&logo=tiktok"
             alt="TikTok"></a>
     <a href="https://github.com/render437.gpg" target="_blank"><img
             src="https://img.shields.io/badge/GPG%20Key-%233f4145?style=for-the-badge&logo=gnu-privacy-guard"
@@ -62,7 +60,6 @@ High school student with a bit of coding experience.
 
 <!-- Languages -->
 ### Languages:
-<a href="#"><img align="right" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=render437&layout=compact&theme=react&hide=html,css&hide_border=true&card_width=380&hide_title=true&langs_count=6"></a>
 
 ```python
 class Languages:
@@ -98,7 +95,10 @@ class Languages:
 </table>
 
 ---
+<a href="#"><img align="right" width=450 height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=render437&layout=compact&theme=react&hide=html,css&hide_border=true&card_width=380&hide_title=true&langs_count=6"></a>
 
 <p align="left">
-  <img src="https://gist.githubusercontent.com/render437/85d5e70c0b12cc7f904df11fd3880f55/raw/general.svg" width="600">
+  <img src="https://gist.githubusercontent.com/render437/85d5e70c0b12cc7f904df11fd3880f55/raw/general.svg" width="500">
 </p>
+
+
