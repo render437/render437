@@ -100,13 +100,4 @@ class Languages:
 
 ---
 
-
-[<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/render437/85d5e70c0b12cc7f904df11fd3880f55/raw/general.svg">](#)
-
-[<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/render437/85d5e70c0b12cc7f904df11fd3880f55/raw/sponsors.svg">](https://github.com/sponsors/lowlighter)
-[<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/render437/85d5e70c0b12cc7f904df11fd3880f55/raw/achievements.svg">](#)
-
-[<img width="100%" height="1" alt="🦑" src="https://gist.githubusercontent.com/render437/85d5e70c0b12cc7f904df11fd3880f55/raw/placeholder.svg">](#)
-
-
-<sub>These infographics were generated using [lowlighter/metrics](https://github.com/lowlighter/metrics)</sub>
+![General](https://gist.githubusercontent.com/render437/85d5e70c0b12cc7f904df11fd3880f55/raw/general.svg)
