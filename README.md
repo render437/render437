@@ -94,7 +94,7 @@ class Languages:
 </table>
 
 ---
-<a href="#"><img align="right" width=450 height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=render437&layout=compact&theme=react&hide=html,css&hide_border=true&card_width=380&hide_title=true&langs_count=6"></a>
+<a href="#"><img align="right" width=450 height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=render437&layout=compact&theme=react&hide=html,css&hide_border=true&card_width=350&hide_title=true&langs_count=6"></a>
 
 <p align="left">
   <img src="https://gist.githubusercontent.com/render437/85d5e70c0b12cc7f904df11fd3880f55/raw/general.svg" width="500">
