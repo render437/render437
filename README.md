@@ -94,10 +94,52 @@ class Languages:
 </table>
 
 ---
-<a href="#"><img align="right" width=450 height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=render437&layout=compact&theme=react&hide=html,css&hide_border=true&card_width=350&hide_title=true&langs_count=6"></a>
 
-<p align="left">
-  <img src="https://gist.githubusercontent.com/render437/85d5e70c0b12cc7f904df11fd3880f55/raw/general.svg" width="500">
-</p>
+<div style="display: flex; flex-direction: column; align-items: center;">
 
+  <div style="width: 100%; max-width: 900px; margin-bottom: 20px; text-align: center;">
+    <img
+      width="100%"
+      style="max-width: 900px;"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=render437&theme=react-dark&hide_border=true"
+      alt="Activity Graph">
+  </div>
 
+  <table style="width: 100%; max-width: 900px; border: none; border-spacing: 20px;">
+    <tr>
+      <td style="width: 60%; vertical-align: top; border: none;">
+        <img
+          src="https://gist.githubusercontent.com/render437/85d5e70c0b12cc7f904df11fd3880f55/raw/general.svg"
+          width="100%"
+          style="max-width: 100%;"
+          alt="GIST">
+      </td>
+      <td style="width: 40%; vertical-align: top; border: none;">
+        <div style="display: flex; flex-direction: column; gap: 10px;">
+          <a href="#">
+            <img
+              src="https://github-readme-stats.vercel.app/api?username=render437&show_icons=true&theme=react&hide_border=true&count_private=true"
+              width="100%"
+              style="max-width: 350px;"
+              alt="GitHub Stats">
+          </a>
+          <a href="#">
+            <img
+              src="https://github-readme-stats.vercel.app/api/top-langs/?username=render437&layout=compact&theme=react&hide=html,css&hide_border=true&card_width=350&hide_title=true&langs_count=6"
+              width="100%"
+              style="max-width: 350px;"
+              alt="Top Languages">
+          </a>
+          <a href="#">
+            <img
+              src="https://github-readme-streak-stats.herokuapp.com/?user=render437&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D"
+              width="100%"
+              style="max-width: 350px;"
+              alt="Streak Stats">
+          </a>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+<hr>
