@@ -143,3 +143,22 @@ class Languages:
   </table>
 </div>
 <hr>
+
+---
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <p align="left">
+        <img src="https://gist.githubusercontent.com/render437/85d5e70c0b12cc7f904df11fd3880f55/raw/general.svg" width="500">
+      </p>
+    </td>
+    <td valign="top" width="50%">
+      <a href="#">
+        <img src="https://github-readme-stats.vercel.app/api?username=render437&show_icons=true&theme=react&hide_border=true&count_private=true" width="100%" height="auto">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=render437&layout=compact&theme=react&hide=html,css&hide_border=true&card_width=380&hide_title=true&langs_count=6" width="100%" height="auto">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=render437&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D" width="100%" height="auto">
+      </a>
+    </td>
+  </tr>
+</table>
