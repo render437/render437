@@ -19,24 +19,26 @@ High school student with a bit of coding experience.
             src="https://img.shields.io/badge/GPG%20Key-%233f4145?style=for-the-badge&logo=gnu-privacy-guard"
             alt="GPG Key"></a>
 </p>
-<hr />
+
+---
+
+<table>
+  <tr>
+    <td valign="top" width="30%">
+      <object type="text/plain" data="about-me.txt" style="width: 100%; height: 300px; border: 1px solid #ccc; padding: 10px; font-family: monospace; white-space: pre-wrap; background-color: #f9f9f9;"></object>
+    </td>
+    <td valign="top" width="70%">
+      <!-- Recent Activity Card -->
+      <img src="https://gist.githubusercontent.com/render437/85d5e70c0b12cc7f904df11fd3880f55/raw/activity.svg" alt="Recent Activity" />
+      <br> <!-- Add a line break -->
+      <!-- Featured Repository Card -->
+      <img src="https://gist.githubusercontent.com/render437/85d5e70c0b12cc7f904df11fd3880f55/raw/featured.svg" alt="Featured Repository" />
+    </td>
+  </tr>
+</table>
 
 
-<!-- About Me -->
-> ### About Me:
-> 
-> - High School **Student** 📚
-> - From **America** 🇺🇲 
-> - Love of my Life: **Fishing** 🎣
-> - Does **Content Creation** for Fun 🎥
-> - Dream: **don't know yet** 🤔
-
-> ### Current Works:
-> - Participating in Python Courses
-> - Learning HTML coding
-> - Trying to get good grades in school
-> - Working on some random projects
-<hr />
+---
 
 <!-- Projects -->
 ### Projects:
