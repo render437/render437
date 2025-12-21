@@ -22,21 +22,14 @@ High school student with a bit of coding experience.
 
 ---
 
-<table>
-  <tr>
-    <td valign="top" width="30%">
-      <object type="text/plain" data="about-me.txt" style="width: 100%; height: 300px; border: 1px solid #ccc; padding: 10px; font-family: monospace; white-space: pre-wrap; background-color: #f9f9f9;"></object>
-    </td>
-    <td valign="top" width="70%">
-      <!-- Recent Activity Card -->
-      <img src="https://gist.githubusercontent.com/render437/85d5e70c0b12cc7f904df11fd3880f55/raw/activity.svg" alt="Recent Activity" />
-      <br> <!-- Add a line break -->
-      <!-- Featured Repository Card -->
-      <img src="https://gist.githubusercontent.com/render437/85d5e70c0b12cc7f904df11fd3880f55/raw/featured.svg" alt="Featured Repository" />
-    </td>
-  </tr>
-</table>
+<!-- CARD_START -->
+<!-- CARD_END -->
 
+
+<p align="right">
+  <img src="https://gist.githubusercontent.com/render437/85d5e70c0b12cc7f904df11fd3880f55/raw/activity.svg" alt="Recent Activity" /><br>
+  <img src="https://gist.githubusercontent.com/render437/85d5e70c0b12cc7f904df11fd3880f55/raw/featured.svg" alt="Featured Repository" />
+</p>
 
 ---
 
@@ -118,28 +111,3 @@ class Languages:
     </td>
   </tr>
 </table>
-<!-- CARD_START -->
-
-    <svg width="600" height="300" xmlns="http://www.w3.org/2000/svg">
-      <rect width="100%" height="100%" fill="#f0f0f0" />
-      <foreignObject x="20" y="20" width="560" height="260">
-        <div xmlns="http://www.w3.org/1999/xhtml" style="font-size: 16px; color: #333; line-height: 24px; font-family: sans-serif;">
-          
-### About Me:
-- High School **Student** 📚
-- From **America** 🇺🇲
-- Love of my Life: **Fishing** 🎣
-- Does **Content Creation** for Fun 🎥
-- Dream: **don't know yet** 🤔
-
-          
-### Current Works:
-- Participating in Python Courses
-- Learning HTML coding
-- Trying to get good grades in school
-- Working on some random projects
-
-        </div>
-      </foreignObject>
-    </svg>
-  <!-- CARD_END -->
