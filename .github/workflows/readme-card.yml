@@ -1,0 +1,90 @@
+name: Update README Card
+
+on:
+  schedule:
+    - cron: "0 16 * * *"
+  push: # Trigger on every push
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate Card SVG
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+
+            const aboutMeText = `
+            ### About Me:
+            - High School **Student** 📚
+            - From **America** 🇺🇲
+            - Love of my Life: **Fishing** 🎣
+            - Does **Content Creation** for Fun 🎥
+            - Dream: **don't know yet** 🤔
+            `;
+
+            const currentWorksText = `
+            ### Current Works:
+            - Participating in Python Courses
+            - Learning HTML coding
+            - Trying to get good grades in school
+            - Working on some random projects
+            `;
+
+            function generateCard(aboutMe, currentWorks) {
+              const width = 600;  // Adjusted width
+              const height = 300; // Adjusted height
+              const bgColor = '#f0f0f0'; // Light grey background
+              const textColor = '#333';   // Dark grey text
+              const fontSize = 16;
+              const lineHeight = 24; // Line height for readability
+
+              const svg = `
+                <svg width="${width}" height="${height}" xmlns="http://www.w3.org/2000/svg">
+                  <rect width="100%" height="100%" fill="${bgColor}" />
+                  <foreignObject x="20" y="20" width="${width - 40}" height="${height - 40}">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="font-size: ${fontSize}px; color: ${textColor}; line-height: ${lineHeight}px; font-family: sans-serif;">
+                      ${aboutMe}
+                      ${currentWorks}
+                    </div>
+                  </foreignObject>
+                </svg>
+              `;
+
+              return svg;
+            }
+
+            const svgContent = generateCard(aboutMeText, currentWorksText);
+
+            fs.writeFileSync('card.svg', svgContent);
+
+      - name: Update README
+        run: |
+          echo "<!-- CARD_START -->" > tmp.md
+          cat card.svg >> tmp.md
+          echo "<!-- CARD_END -->" >> tmp.md
+          
+          # Insert the generated card into the README
+          if grep -q "<!-- CARD_START -->" README.md; then
+              sed -i 's/<!-- CARD_START -->.*<!-- CARD_END -->/<!-- CARD_START -->\n$(cat tmp.md)\n<!-- CARD_END -->/g' README.md
+          else
+              echo "Adding card to end of README"
+              echo "$(cat tmp.md)" >> README.md
+          fi
+          rm tmp.md
+
+      - name: Commit and Push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update README card"
+          branch: ${{ github.ref }} # or your main branch name like main or master
+          push_options: '--force' #needed since the github token doesnt get push permissions on the repo it runs on
+
