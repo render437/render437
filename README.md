@@ -118,3 +118,28 @@ class Languages:
     </td>
   </tr>
 </table>
+<!-- CARD_START -->
+
+    <svg width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+      <rect width="100%" height="100%" fill="#f0f0f0" />
+      <foreignObject x="20" y="20" width="560" height="260">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="font-size: 16px; color: #333; line-height: 24px; font-family: sans-serif;">
+          
+### About Me:
+- High School **Student** 📚
+- From **America** 🇺🇲
+- Love of my Life: **Fishing** 🎣
+- Does **Content Creation** for Fun 🎥
+- Dream: **don't know yet** 🤔
+
+          
+### Current Works:
+- Participating in Python Courses
+- Learning HTML coding
+- Trying to get good grades in school
+- Working on some random projects
+
+        </div>
+      </foreignObject>
+    </svg>
+  <!-- CARD_END -->
