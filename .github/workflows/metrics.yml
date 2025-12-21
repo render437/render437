@@ -46,6 +46,7 @@ jobs:
         with:
           filename: general.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          theme: dark
           base: header
           base_indepth: yes
           config_order: base.header, isocalendar, languages, notable, discussions, topics
@@ -67,4 +68,34 @@ jobs:
 
           plugin_notable: yes
           plugin_discussions: yes
-          
+
+      # 🦑 Recent Activity
+      - name: 🦑 Recent Activity
+        uses: lowlighter/metrics@latest
+        with:
+          filename: activity.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          theme: dark
+          base: ""
+          output_action: gist
+          committer_gist: 85d5e70c0b12cc7f904df11fd3880f55
+          plugin_activity: yes
+          plugin_activity_limit: 5 # Number of events to display
+          plugin_activity_days: 14 # Number of days to consider
+          plugin_activity_types: issue, pr, release, push
+
+      # 🦑 Featured Repository
+      - name: 🦑 Featured Repository
+        uses: lowlighter/metrics@latest
+        with:
+          filename: featured.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          theme: dark
+          base: ""
+          output_action: gist
+          committer_gist: 85d5e70c0b12cc7f904df11fd3880f55
+          plugin_lines: yes
+          plugin_followup: yes
+          plugin_codeowners: yes
+          plugin_repositories: yes
+          plugin_repositories_featured: render437/render437,anuraghazra/github-readme-stats # Replace with your featured repos
