@@ -67,6 +67,9 @@ jobs:
           plugin_topics_mode: icons
 
           plugin_notable: yes
+          plugin_notable_from: all
+          plugin_notable_self: yes
+          plugin_notable_repositories: render.phisher
           plugin_discussions: yes
 
       # 🦑 Recent Activity
@@ -98,4 +101,4 @@ jobs:
           plugin_followup: yes
           plugin_codeowners: yes
           plugin_repositories: yes
-          plugin_repositories_featured: render437/render437,anuraghazra/github-readme-stats # Replace with your featured repos
+          plugin_repositories_featured: render437/render437
