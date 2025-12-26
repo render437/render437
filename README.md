@@ -112,8 +112,8 @@ class Languages:
     </td>
     <td valign="top" width="50%">
       <a href="#">
-        <img src="https://github-readme-stats.vercel.app/api?username=render437&show_icons=true&theme=react&hide_border=true&count_private=true" width="100%" height="auto">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=render437&layout=compact&theme=react&hide=html,css&hide_border=true&card_width=380&langs_count=6&show_icons=true&include_private=true&locale=en" width="100%" height="auto">
+        <img src="https://github-readme-stats-ecru-nu-84.vercel.app/api?username=render437&show_icons=true&theme=react&hide_border=true&count_private=true" width="100%" height="auto">
+        <img src="https://github-readme-stats-ecru-nu-84.vercel.app/api/top-langs/?username=render437&layout=compact&theme=react&hide=html,css&hide_border=true&card_width=380&langs_count=6&show_icons=true&include_private=true&locale=en" width="100%" height="auto">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=render437&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D" width="100%" height="auto">
       </a>
     </td>
