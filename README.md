@@ -22,14 +22,22 @@ High school student with a bit of coding experience.
 
 ---
 
-<!-- CARD_START -->
-<!-- CARD_END -->
-
-
-<p align="right">
-  <img src="https://gist.githubusercontent.com/render437/85d5e70c0b12cc7f904df11fd3880f55/raw/activity.svg" alt="Recent Activity" /><br>
-  <img src="https://gist.githubusercontent.com/render437/85d5e70c0b12cc7f904df11fd3880f55/raw/featured.svg" alt="Featured Repository" />
-</p>
+<table>
+  <tr>
+    <td valign="top" width="30%">
+      <a href="#">
+          <img src="images/aboutme.png" alt="About Me Card" width="auto">
+          <img src="images/curentworks.png" alt="Current Works Card" width="auto">
+      </a>
+    </td>
+    <td valign="top" width="50%">
+      <a href="#">
+          <img src="https://gist.githubusercontent.com/render437/85d5e70c0b12cc7f904df11fd3880f55/raw/activity.svg" alt="Recent Activity">
+          <img src="https://gist.githubusercontent.com/render437/85d5e70c0b12cc7f904df11fd3880f55/raw/featured.svg" alt="Featured Repository">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
