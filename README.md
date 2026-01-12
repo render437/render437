@@ -76,8 +76,6 @@ class Languages:
     self.future = "..."
 ```
 
-<br/>
-
 ---
 
 <!-- System Info -->
