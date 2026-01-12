@@ -101,4 +101,4 @@ jobs:
           plugin_followup: yes
           plugin_codeowners: yes
           plugin_repositories: yes
-          plugin_repositories_featured: render437/render437
+          plugin_repositories_featured: render.phisher, rendercam
