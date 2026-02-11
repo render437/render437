@@ -32,7 +32,6 @@ High school student with a bit of coding experience.
     </td>
     <td valign="top" width="50%">
       <a href="#">
-          <img src="https://gist.githubusercontent.com/render437/85d5e70c0b12cc7f904df11fd3880f55/raw/activity.svg" alt="Recent Activity">
           <img src="https://gist.githubusercontent.com/render437/85d5e70c0b12cc7f904df11fd3880f55/raw/featured.svg" alt="Featured Repository">
       </a>
     </td>
