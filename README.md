@@ -56,8 +56,8 @@ High school student with a bit of coding experience.
         <td>A simple camera phisher tool that captures the targets camera.</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/render437/MagicAndMonstersFULL">Magic and Monsters</a></td>
-        <td>A random mini game that I made in my free time.</td>
+        <td><a href="https://github.com/render437/discord-release-notifier/tree/main">Github Release Notifier for Discord</a></td>
+        <td>A workflow that notifies a discord server when a new release for a selected repo is available.</td>
     </tr>
 </table>
 
