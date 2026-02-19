@@ -101,4 +101,4 @@ jobs:
           plugin_followup: yes
           plugin_codeowners: yes
           plugin_repositories: yes
-          plugin_repositories_featured: render.phisher, rendercam
+          plugin_repositories_featured: render.phisher, rendercam, discord-release-notifier
