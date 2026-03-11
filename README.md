@@ -59,6 +59,10 @@ High school student with a bit of coding experience.
         <td><a href="https://github.com/render437/discord-release-notifier/tree/main">Github Release Notifier for Discord</a></td>
         <td>A workflow that notifies a discord server when a new release for a selected repo is available.</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/render437/password-strength-tester/tree/main">Password Strength Tester</a></td>
+        <td>A simple website that tests password strengths gives extended info on it.</td>
+    </tr>
 </table>
 
 ---
